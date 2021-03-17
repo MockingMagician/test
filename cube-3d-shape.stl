@@ -1,0 +1,86 @@
+solid Cube - 3D Shape
+  facet normal 1 0 0
+    outer loop
+      vertex 1 5.551115123125783e-17 1
+      vertex 1 0 5.551115123125783e-17
+      vertex 1 1 0
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 1 5.551115123125783e-17 1
+      vertex 1 1 0
+      vertex 1 1 1
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 0 1 1
+      vertex 0 1 0
+      vertex 0 0 5.551115123125783e-17
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 0 1 1
+      vertex 0 0 5.551115123125783e-17
+      vertex 0 5.551115123125783e-17 1
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 1 1
+      vertex 0 5.551115123125783e-17 1
+      vertex 1 5.551115123125783e-17 1
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 1 1
+      vertex 1 5.551115123125783e-17 1
+      vertex 1 1 1
+    endloop
+  endfacet
+  facet normal 0 -5.551115123125783e-17 -1
+    outer loop
+      vertex 0 0 5.551115123125783e-17
+      vertex 0 1 0
+      vertex 1 1 0
+    endloop
+  endfacet
+  facet normal 0 -5.551115123125783e-17 -1
+    outer loop
+      vertex 0 0 5.551115123125783e-17
+      vertex 1 1 0
+      vertex 1 0 5.551115123125783e-17
+    endloop
+  endfacet
+  facet normal 0 -1 5.551115123125783e-17
+    outer loop
+      vertex 0 5.551115123125783e-17 1
+      vertex 0 0 5.551115123125783e-17
+      vertex 1 0 5.551115123125783e-17
+    endloop
+  endfacet
+  facet normal 0 -1 5.551115123125783e-17
+    outer loop
+      vertex 0 5.551115123125783e-17 1
+      vertex 1 0 5.551115123125783e-17
+      vertex 1 5.551115123125783e-17 1
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 1 1 1
+      vertex 1 1 0
+      vertex 0 1 0
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 1 1 1
+      vertex 0 1 0
+      vertex 0 1 1
+    endloop
+  endfacet
+endsolid Cube - 3D Shape
